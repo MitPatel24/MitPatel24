@@ -4,7 +4,7 @@ I am delving into the fascinating world of AI, with a particular focus on the tr
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-linkedin-username/](https://linkedin.com/in/Mitkumar Patel)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)]([[https://linkedin.com/in/Mitkumar Patel]])
 
 
 # 💻 Tech Stack:
