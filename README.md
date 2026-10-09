@@ -1,6 +1,15 @@
 
-# 👋 Hey, I'm Mitkumar Patel
+<p align="center">
+  <em>A simple image can hold a thousand questions. I build to find the answers.</em>
+</p>
 
+---
+
+<h1 align="center">Hey, I'm Mitkumar Patel 👋</h1>
+
+<p align="center">
+  AI Graduate Student | Computer Vision Enthusiast | Researcher
+</p>
 ### Computer Vision | Artificial Intelligence | Research & Development
 
 I'm fascinated by how machines can **see, understand, and interact with the world**. My interests lie at the intersection of Computer Vision, Deep Learning, and intelligent systems, where I enjoy turning research ideas into practical applications.
@@ -17,12 +26,11 @@ I'm fascinated by how machines can **see, understand, and interact with the worl
 
 **Northeastern University**  
 Master of Science in Artificial Intelligence  
-📍 Boston, Massachusetts, USA | September 2026 – May 2028
+📍 Boston, Massachusetts, USA | September 2026 ~ May 2028
 
 **Pandit Deendayal Energy University**  
 Bachelor of Technology in Computer Engineering  
 📍 Gujarat, India | September 2021 – May 2025  
-📊 CGPA: 9.31/10
 
 ---
 
@@ -122,11 +130,7 @@ I believe the most exciting work happens when **curiosity meets experimentation*
 
 ## 📫 Let's Connect
 
-💼 [LinkedIn](https://www.linkedin.com/in/)
-
-🔬 [Google Scholar](https://scholar.google.com/citations)
-
-💻 [GitHub Repositories](https://github.com/MitPatel24?tab=repositories)
+💼 [LinkedIn](https://www.linkedin.com/in/mitkumar-patel-788109271/)
 
 ⭐ Found something interesting? Explore my work, share your ideas, or reach out to collaborate!
 
