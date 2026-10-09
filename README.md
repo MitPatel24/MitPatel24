@@ -10,7 +10,7 @@
 <p align="center">
   AI Graduate Student | Computer Vision Enthusiast | Researcher
 </p>
-### Computer Vision | Artificial Intelligence | Research & Development
+**Computer Vision | Artificial Intelligence | Research & Development**
 
 I'm fascinated by how machines can **see, understand, and interact with the world**. My interests lie at the intersection of Computer Vision, Deep Learning, and intelligent systems, where I enjoy turning research ideas into practical applications.
 
