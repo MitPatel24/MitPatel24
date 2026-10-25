@@ -111,7 +111,7 @@ Explore my repositories for implementations, experiments, and project details.
 
 ---
 
-## 📊 GitHub Insights
+<!-- ## 📊 GitHub Insights
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MitPatel24&show_icons=true&theme=tokyonight&hide_border=true)
 
@@ -120,6 +120,7 @@ Explore my repositories for implementations, experiments, and project details.
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MitPatel24&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
+-->
 
 ## 🌱 What's Next?
 
